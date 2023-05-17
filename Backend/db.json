@@ -1,0 +1,32 @@
+{
+  "Teacher": [
+    {
+      "name": "Bharat",
+      "email": "bharat@gmail.com",
+      "phone": "08431135969",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "Bharatgouda",
+      "email": "bharat@gmail.com",
+      "phone": "08431135969",
+      "password": "4567",
+      "id": 2
+    },
+    {
+      "name": "Bharat",
+      "email": "bharat@gmail.com",
+      "phone": "08431135969",
+      "password": "1456",
+      "id": 3
+    },
+    {
+      "name": "Bharat",
+      "email": "bharat@gmail.com",
+      "phone": "08431135969",
+      "password": "1456",
+      "id": 4
+    }
+  ]
+}
